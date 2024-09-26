@@ -1,16 +1,8 @@
-# search_bar
+# Search Bar
 
-A new Flutter project.
+Barra de busqueda en la App Bar con historial de busquedas recientes y efecto sugerencia de busqueda con un efecto de completado por cada letra que coincida
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a86df5b5-88c8-409a-8338-367acb0f2fd8" alt="GuessTheFlag (1)" style="max-width: 100%; height: auto;">
+</p>
